@@ -14,7 +14,7 @@ summary: BlueXPでEシリーズシステムを管理する新機能について�
 
 
 [role="lead"]
-BlueXP（旧Cloud Manager）でEシリーズシステムを管理するための新機能について説明します。
+BlueXPでEシリーズシステムを管理する新機能について説明します。
 
 
 
