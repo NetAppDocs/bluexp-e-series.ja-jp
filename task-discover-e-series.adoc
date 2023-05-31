@@ -18,7 +18,7 @@ BlueXPでは、オンプレミス環境でEシリーズストレージシステ�
 .必要なもの
 * クラウドプロバイダまたはオンプレミスにインストールされ、Eシリーズストレージシステムへのネットワーク接続を備えたコネクタ。
 +
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの詳細と、コネクタの作成方法について説明します"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["コネクタの詳細と、コネクタの作成方法について説明します"^]
 
 * ストレージシステムコントローラのドメイン名またはIPアドレス。
 * システムのadminクレデンシャル。
