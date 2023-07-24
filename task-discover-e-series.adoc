@@ -26,13 +26,13 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["コネ
 
 .手順
 . BlueXPのナビゲーションメニューで、*[ストレージ]>[キャンバス]*を選択します。
-. キャンバスで、*作業環境の追加*をクリックし、*オンプレミス*を選択します。
+. キャンバスで、*[Add Working Environment]*を選択し、*[On-Premises]*を選択します。
 . [E-Series]*の横にある*[Discover]*を選択します。
 . プロンプトが表示されたら、コネクタを作成します。
 +
 詳細については、上のリンクを参照してください。
 
-. _E-Series Cluster Details_pageで、ストレージシステムコントローラのドメイン名またはIPアドレス、システムのadminクレデンシャルを入力し、* Add *をクリックします。
+. [_E-Series Cluster Details_]ページで、ストレージシステムコントローラのドメイン名またはIPアドレス、システムの管理者クレデンシャルを入力し、*[追加]*を選択します。
 +
 image:screenshot-cluster-details.png["Eシリーズのクラスタの詳細ページを示すスクリーンショット。ドメイン名またはIPアドレス、および管理者ユーザ名とパスワードを入力するよう求められます。"]
 
