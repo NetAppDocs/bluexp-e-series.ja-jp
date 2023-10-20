@@ -13,16 +13,18 @@ sidebar:
   - title: Eシリーズのドキュメント
     url: "/index.html"
   - title: リリースノート
-    url: "/whats-new.html"
+    entries:
+    - title: 新機能
+      url: "/whats-new.html"
   - title: はじめに
     entries:
-    - title: Eシリーズシステムの詳細をご確認ください
+    - title: Eシリーズシステムの検出
       url: "/task-discover-e-series.html"
-  - title: Eシリーズクラスタを管理
+  - title: Eシリーズシステムを管理
     entries:
     - title: Eシリーズシステムを表示します
       url: "/task-view-e-series.html"
-    - title: Eシリーズを削除
+    - title: 作業環境を削除します
       url: "/task-remove-e-series.html"
   - title: 知識とサポート
     entries:
@@ -36,13 +38,13 @@ homepage:
   tiles:
   - title: はじめに
     links:
-    - title: Eシリーズシステムの詳細をご確認ください
+    - title: Eシリーズシステムの検出
       url: "/task-discover-e-series.html"
   - title: Eシリーズシステムを管理
     links:
     - title: Eシリーズシステムを表示します
       url: "/task-view-e-series.html"
-    - title: Eシリーズを削除
+    - title: 作業環境を削除します
       url: "/task-remove-e-series.html"
   - title: 関連リンク
     links:
