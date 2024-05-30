@@ -1,0 +1,29 @@
+---
+indexpage:
+  title: BlueXPを使用したEシリーズの管理
+  summary: BlueXPでEシリーズシステムを検出すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
+  keywords: bluexp-family, documentation, e-series, cloud
+  lead: BlueXPでEシリーズシステムを検出すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
+  tiles:
+  - title: はじめに
+    links:
+    - title: Eシリーズシステムの検出
+      url: "/task-discover-e-series.html"
+  - title: Eシリーズシステムを管理
+    links:
+    - title: Eシリーズシステムを表示します
+      url: "/task-view-e-series.html"
+    - title: 作業環境を削除します
+      url: "/task-remove-e-series.html"
+  - title: 関連リンク
+    links:
+    - title: BlueXP以外で管理するためのEシリーズのドキュメント
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: ブログコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXPブログ
+      url: https://cloud.netapp.com/blog
+    - title: クラウドに関する Web セミナー
+      url: https://cloud.netapp.com/events
